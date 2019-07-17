@@ -1,8 +1,8 @@
 # Candidato
 
-**Nome**: Ronaldo Matos Rodrigues
+**Nome**: Lucas Coser Carlos
 
-**Email**: ronaldo.rodrigues@saedigital.com.br
+**Email**: lucasccarlos@gmail.com
 
 # Instalação
 [...]
